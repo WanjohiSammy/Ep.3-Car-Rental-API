@@ -1,5 +1,6 @@
 
-# Ep.3: Car Rental System API - Project Setup
+# Ep.3: Car Rental System API - Project Structure and Setup
+
 
 This Project follows a layered architecture, which is a good practice for building scalable and maintainable applications. Each layer has its specific responsibilities, making the codebase modular and easy to understand. 
 This clean separation of concerns keeps things organized and manageable, making maintenance and testing as easy as pie!
@@ -41,10 +42,6 @@ This clean separation of concerns keeps things organized and manageable, making 
 • No project reference, indicating it's a standalone layer.
 
 
-
-
-
-
 ## Get Started
 ```sh
 git clone https://github.com/WanjohiSammy/Ep.3-Car-Rental-API.git
@@ -67,4 +64,7 @@ Add `appsettings.Development.json` file in CarRental.Api layer:
 ```
 
 Build the project to restore packages and ensure it follows the Project Structure.
+
+
+![Project-Structure-Diagram](https://github.com/WanjohiSammy/Ep.3-Car-Rental-API/assets/12447806/fe5712c4-5016-48d6-8d26-baf8201033f4)
 
